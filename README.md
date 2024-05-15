@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @nOfedzik
-- 👀 I’m interested in all kind of programing
-- 🌱 I’m currently learning C++
 
 
 <!---
